@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Shrey Kuvera
 
-<!--
-**ShreyKuvera05/ShreyKuvera05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **ReactJS Developer** expanding my skills into the full **MERN Stack** (MongoDB, Express, React, Node.js).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Craft responsive frontends with **ReactJS**
+- Build dynamic UIs with **Tailwind CSS** and **Bootstrap**
+- Currently learning to build full-stack apps using **MongoDB**, **Express**, and **Node.js**
+
+---
+
+## 🌱 Currently Learning
+- Backend with Node.js & Express.js
+- Database design with MongoDB
+- REST API development and integration
+- Authentication and authorization (JWT, OAuth)
+
+---
+
+## 🧰 Tech Stack
+**Frontend:**
+- ReactJS
+- HTML5, CSS3
+- Tailwind CSS, Bootstrap
+
+**Backend (Learning):**
+- Node.js
+- Express.js
+- MongoDB
+
+**Tools:**
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: [linkedin.com/in/shreykuvera](www.linkedin.com/in/shreykuvera)
+- 🌐 Portfolio: [yourportfolio.com](https://shreykuveraportfolio.vercel.app/)
+- 📧 Email: shreykuvera@gmail.com
+
+---
+
+
