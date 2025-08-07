@@ -21,7 +21,7 @@ I'm a **ReactJS Developer** expanding my skills into the full **MERN Stack** (Mo
 
 ## 🧰 Tech Stack
 **Frontend:**
-- ReactJS
+- ReactJS, NextJS
 - HTML5, CSS3
 - Tailwind CSS, Bootstrap
 
