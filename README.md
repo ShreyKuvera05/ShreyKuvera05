@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shrey Kuvera
 
-I'm a **ReactJS Developer** expanding my skills into the full **MERN Stack** (MongoDB, Express, React, Node.js).
+I'm a **ReactJS/NextJS Developer** expanding my skills into the full **MERN Stack** (MongoDB, Express, React, Node.js).
 
 ---
 
