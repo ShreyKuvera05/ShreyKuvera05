@@ -39,7 +39,7 @@ I'm a **ReactJS Developer** expanding my skills into the full **MERN Stack** (Mo
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/shreykuvera](www.linkedin.com/in/shreykuvera)
-- 🌐 Portfolio: [yourportfolio.com](https://shreykuveraportfolio.vercel.app/)
+- 🌐 Portfolio: [shreykuvera.com](https://shreykuveraportfolio.vercel.app/)
 - 📧 Email: shreykuvera@gmail.com
 
 ---
